@@ -1,6 +1,6 @@
 meu
 primeiro
-arquio
+arquivo
 do
 girhub
 esta
