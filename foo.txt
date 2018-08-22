@@ -2,7 +2,7 @@ meu
 primeiro
 arquivo
 do
-girhub
+github
 esta
 aui
 
